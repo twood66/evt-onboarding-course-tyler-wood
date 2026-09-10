@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-10T00:22:23Z",
+  "platform": "linux",
+  "mode": "member",
+  "checks": {
+    "git_installed": true,
+    "git_identity": true,
+    "github_cli": true,
+    "github_authenticated": true,
+    "public_repo_access": true,
+    "team_access": false,
+    "vscode": false,
+    "extension_pack": false,
+    "python_extension": false,
+    "platformio_extension": false,
+    "github_extension": false,
+    "markdown_extension": false,
+    "python_runtime": true,
+    "pip": true,
+    "platformio_cli": false,
+    "cpp_build": false
+  },
+  "complete": false
+}
