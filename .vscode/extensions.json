@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "GitHub.vscode-pull-request-github",
+    "ms-python.python",
+    "platformio.platformio-ide"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "python.testing.unittestEnabled": true,
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "tests"
+  ]
+}
